@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>Synatx class</title>
+     </head>
+  <body bgcolor="PURPLE">
+    <p>I m web Desiginer</p>
+    <br />
+    <h1 align="center" bgcolor="white">ALL WELL</h1>
+    <h2 align="right">GOOD</h2>
+    <h3> hello</h3>
+    <h4>why</h4>
+    <h5>how</h5>
+    <h6>when</h6>
+    <b>where</b>
+    &nbsp;&nbsp;&nbsp;
+    <strong>ROHIT</strong>
+    <p>
+      LETS GET READY FOR THE FIGHT TODAY 
+    </p>
+    <br />
+    <mark>ROHIT</mark>
+</head>
+</html>
+
